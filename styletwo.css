@@ -1,0 +1,16 @@
+.col-md-8{
+    padding-left: 30px;
+}
+
+.container-fluid {
+    background-color: #161D30;
+}
+.text, .col-md-8{
+    color: white;
+  
+}
+
+.row{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}

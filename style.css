@@ -1,0 +1,162 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora&family=Sedgwick+Ave+Display&display=swap');
+
+
+.container-fluid-1 {
+    display: flex;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #FF7000
+    
+   
+    
+}
+
+ p{
+    color: white;
+  
+   
+}
+
+body p {
+    margin: 0;
+    color: #000;
+  }
+
+  body a {
+    color: #BABABA;
+  }
+
+  .icon.circle {
+    height: 49px;
+    width: 49px;
+    background: #F8F8F8;
+    border-radius: 50%;
+  }
+
+
+  button {
+
+    background-color: #FF7000;
+    border: none;
+    border-radius: 5px;
+    width: 90px;
+   
+  }
+
+  span {
+
+color: #FF7000;
+
+  }
+
+
+  nav.navbar.navbar-expand-lg {
+    background-color: #333333
+  }
+
+
+  .container-fluid.b-box.text-white {
+
+    background-color: #000;
+    padding-top: 80px;
+    padding-bottom: 80px;
+  }
+
+  .text {
+
+    font-family: 'Lora', serif;
+    padding-bottom: 15px;
+  }
+
+  .container-fluid.more {
+    padding-top: 50px;
+  }
+
+
+  .line {
+
+    width: 7%;
+    border: none;
+    border: 1px solid #FF7000;
+    border-radius: 5px;
+    
+  }
+
+  .col-md-6.picture {
+    padding-right: 0;
+  }
+
+
+  .make-gap {
+    padding-bottom: 8px;
+  }
+
+  .circle {
+
+    background-color: black;
+    width: 50px;
+
+   height:50px;
+   border-radius: 50%;
+   position:relative;
+}
+
+.circle img.kab {
+
+    position:absolute;
+    right: 0;
+    top: 0;
+
+}
+
+.container-fluid.review {
+
+    margin-top: 100px;
+}
+
+.name {
+
+    font-size: 20px;
+}
+
+
+.prof {
+
+    font-size: 15px;
+}
+
+.comment {
+
+width: 450px;
+
+}
+
+
+.container-fluid.review.other {
+    margin-top: 20px;
+}
+
+
+.wid {
+    width: 100%
+}
+
+.new {
+    margin-bottom: 50px;
+}
+
+.change {
+
+    margin-top: 30px;
+}
+
+.black-box-end{
+    
+    height: 50px;
+    background-color: #000;
+    margin-top: 30px;
+}
+
+.lets {
+    width: 350px;
+}
